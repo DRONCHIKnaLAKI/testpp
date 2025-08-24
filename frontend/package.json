@@ -1,0 +1,16 @@
+{
+  "name": "sports-map-frontend",
+  "private": true,
+  "dependencies": {
+    "@googlemaps/js-api-loader": "^1.16.6",
+    "@vitejs/plugin-react": "^4.2.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "vite": "^5.2.11"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
